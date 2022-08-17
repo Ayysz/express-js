@@ -1,0 +1,22 @@
+{
+  "name": "nodeexpress",
+  "version": "1.0.0",
+  "description": "belajar menggunakan expressJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayysz/express-js.git"
+  },
+  "author": "reactor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayysz/express-js/issues"
+  },
+  "homepage": "https://github.com/Ayysz/express-js#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
