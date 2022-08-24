@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Ayysz/express-js#readme",
   "dependencies": {
+    "moment": "^2.29.4",
     "nodemon": "^2.0.19"
   }
 }
